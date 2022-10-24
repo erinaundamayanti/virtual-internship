@@ -1,4 +1,4 @@
-# virtual-internship
+# Virtual Internship
 Project Data Science
 # Metrics Permasalahan:
 Kredit pinjaman memegang peranan penting dalam dunia perbankan, namun kredit yang bermasalah membuat sektor perbankan menghadapi kerugian yang berdampak pada perekonomian negara atau dunia. Jadi masalah untuk setiap penyedia pinjaman saat ini adalah untuk mengetahui pemohonan pinjaman atau applicant yang sangat mungkin untuk membayar kembali pinjaman, dengan cara ini perusahaan dapat menghindari kerugian dan bisa memperoleh keuntungan.
